@@ -1,0 +1,1 @@
+# This project is for monitoring the hardware usage of a Samsung Tab S Tablet
